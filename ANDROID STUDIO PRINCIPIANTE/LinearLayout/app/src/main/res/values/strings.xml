@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LinearLayout</string>
+    <string name="layout_uno_name">Layout 1</string>
+    <string name="layout_dos_name">Layout 2</string>
+    <string name="layout_tres_name">Layout 3</string>
 </resources>
