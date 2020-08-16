@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="app_color_uno">ROJO</string>
+    <string name="app_color_dos">NARANJA</string>
+    <string name="app_color_tres">AMARILLO</string>
+    <string name="app_color_cuatro">VERDE</string>
+    <string name="app_color_cinco">AZUL</string>
+    <string name="app_color_seis">INDIGO</string>
+    <string name="app_color_siete">VIOLETA</string>
+</resources>
