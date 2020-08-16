@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageButton
+        android:id="@+id/ibUno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:srcCompat="@tools:sample/avatars"
+        android:contentDescription="@string/app_name"/>
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:id="@+id/ibDos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:srcCompat="@tools:sample/avatars"
+        android:contentDescription="@string/app_name"/>
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:id="@+id/ibTres"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/openwebinars_logo"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/app_name"/>
+
+</LinearLayout>
